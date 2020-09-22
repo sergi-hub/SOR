@@ -16,8 +16,13 @@ Linux es un sistema operativo libre, eso quiere decir que es totalmente gratuito
 Anroid es el sistema operativo que incorporán los teléfonos inteligentes, y es el claro competidor de IOS. Ha sido desarrollado por [Google](https://es.wikipedia.org/wiki/Google) y [Open Handset Alliance](https://es.wikipedia.org/wiki/Open_Handset_Alliance), esta basado en el núcleo Linux junto a algunos otros software de código abierto. En la actualidad, va incorporado tanto en dispositivos móviles inteligentes, como en tablets, relojes inteligentes, automóviles e incluso algunas televisiones. El kernel a partir del cual fue creado este S.O. es [Linux](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#gnulinux).
 
 ![AndroidLogo](https://user-images.githubusercontent.com/71392450/93899289-74cc7e80-fcf4-11ea-9ca9-49c811239c3f.jpg)
+
 ## macOS
-El sistema operativo exclusivo de los productos de la marca Apple, los cuales tienen un precio elevado, aunque el S.O. en si cumple con sus funciones con muy buen rendimiento. Es muy seguro, fácil de utilizar y perfecto para trabajar, ya que es el favorito para las empresas, por su fiabilidad. [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) fue su creador, junto a [Steve Wozniak](https://es.wikipedia.org/wiki/Steve_Wozniak) y [Ronald Wayne](https://es.wikipedia.org/wiki/Ronald_Wayne), en el año 1984. Este es el claro competidor tanto de Android, en dispositivos móviles intelgintes como de Microsoft Windows, en ordenadores.
+El sistema operativo exclusivo de los productos de la marca Apple, los cuales tienen un precio elevado, aunque el S.O. en si cumple con sus funciones con muy buen rendimiento. Es muy seguro, fácil de utilizar y perfecto para trabajar, ya que es el favorito para las empresas, por su fiabilidad. [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) fue su creador, junto a [Steve Wozniak](https://es.wikipedia.org/wiki/Steve_Wozniak) y [Ronald Wayne](https://es.wikipedia.org/wiki/Ronald_Wayne), en el año 1984, juntos, crearon _Apple_Inc._ Este es el claro competidor de [Microsoft Windows](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#microsoft-windows)
 
 ![logomacOS](https://user-images.githubusercontent.com/71392450/93902880-5e282680-fcf8-11ea-9d8a-3e8037248544.jpeg)
 
+## iOS
+Desarrollado especialmente para teléfonos móviles inteligentes, este S.O. es uno de los más utilizados. Es bastante fácil de usar y es de los más seguros en cuanto a las amenazas a los que se puede estar expuesto. Ha sido desarrollador también por [Apple Inc.](https://es.wikipedia.org/wiki/Apple). El primer dispositivo con que incorporaba este S.O. fue el iPhone en el 2007. iOS lleva ya compitiendo muchos años contra [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android)
+
+![LogoiOS](https://user-images.githubusercontent.com/71392450/93906018-f542ad80-fcfb-11ea-9103-62e05b86dd20.jpeg)
