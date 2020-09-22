@@ -26,3 +26,5 @@ El sistema operativo exclusivo de los productos de la marca Apple, los cuales ti
 Desarrollado especialmente para teléfonos móviles inteligentes, este S.O. es uno de los más utilizados. Es bastante fácil de usar y es de los más seguros en cuanto a las amenazas a los que se puede estar expuesto. Ha sido desarrollador también por [Apple Inc.](https://es.wikipedia.org/wiki/Apple). El primer dispositivo con que incorporaba este S.O. fue el iPhone en el 2007. iOS lleva ya compitiendo muchos años contra [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android)
 
 ![LogoiOS](https://user-images.githubusercontent.com/71392450/93906018-f542ad80-fcfb-11ea-9103-62e05b86dd20.jpeg)
+
+> Si quieres descubrir mejor todo sobre los sistemas operativos entra [aquí](https://www.eaeprogramas.es/blog/negocio/tecnologia/cuatro-sistemas-operativos-que-debes-conocer), o en este apartado de la [wiki](https://es.wikipedia.org/wiki/Sistema_operativo)
