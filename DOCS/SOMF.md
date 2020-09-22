@@ -7,11 +7,13 @@ Se considera que el S.O. es el software que compone nuestro ordenador, o mas bie
 Este es el sistema operativo genéricamente más utilizado de todos, ya que prácticamente todos los ordenadores que se compran lo suelen llevar incorporado, aunque hay algunos telefonos inteligentes y servidores que también lo utilizan [Bill Gates](https://es.wikipedia.org/wiki/Bill_Gates), fue su creador, en el año 1985, compitiendo contra Apple, un sistema operativo del cual hablaremos mas tarde. Su interfaz gráfica lo hace muy intuitivo y fácil de utilizar por cualquier persona, aunque tiende a ser un poco más vulnerable respecto a los virus que pueden llegar a atacar nuestro sistema.
 ![MicrosoftWindowsLogo](https://user-images.githubusercontent.com/71392450/93894762-60d24e00-fcef-11ea-9cf2-b704aed61969.jpeg)
 
-> **[GNU/Linux.](https://es.wikipedia.org/wiki/GNU/Linux)**
+> **GNU/Linux.**
 Linux es un sistema operativo libre, eso quiere decir que es totalmente gratuito, esto lo hace uno de los más usados por la comunidad. Además, su código fuente es totalmente modificable y se puede redistribuir libremente, bajo unos terminos de Licencia, claro. Al tener una gran comunidad detrás de él, se caracteriza por tener una gran potencia, estabilidad y seguridad ante los virus informáticos.  Se creo a partir del nucleo o Kernel _Linux_, diseñado por el programador [Linus Torvalds](https://es.wikipedia.org/wiki/Linus_Torvalds), junto a _GNU_, desarrolado por [Richard Stallman](https://es.wikipedia.org/wiki/Richard_Stallman). 
 
 ![LogoGNU/Linux](https://user-images.githubusercontent.com/71392450/93897157-0ab2da00-fcf2-11ea-8262-973fcd6c88b4.jpeg)
 
 > **Android.**
-Anroid es el sistema operativo que incorporán los teléfonos inteligentes, y es el claro competidor de IOS. Ha sido desarrollado por [Google](https://es.wikipedia.org/wiki/Google) y [Open Handset Alliance](https://es.wikipedia.org/wiki/Open_Handset_Alliance), esta basado en el núcleo Linux junto a algunos otros software de código abierto. En la actualidad, va incorporado tanto en dispositivos móviles inteligentes, como en tablets, relojes inteligentes, automóviles e incluso algunas televisiones. El kernel a partir del cual fue creado este S.O. es [Linux](https://es.wikipedia.org/wiki/GNU/Linux)
+Anroid es el sistema operativo que incorporán los teléfonos inteligentes, y es el claro competidor de IOS. Ha sido desarrollado por [Google](https://es.wikipedia.org/wiki/Google) y [Open Handset Alliance](https://es.wikipedia.org/wiki/Open_Handset_Alliance), esta basado en el núcleo Linux junto a algunos otros software de código abierto. En la actualidad, va incorporado tanto en dispositivos móviles inteligentes, como en tablets, relojes inteligentes, automóviles e incluso algunas televisiones. El kernel a partir del cual fue creado este S.O. es Linux.
+
+
 
