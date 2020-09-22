@@ -18,13 +18,13 @@ Anroid es el sistema operativo que incorporán los teléfonos inteligentes, y es
 ![AndroidLogo](https://user-images.githubusercontent.com/71392450/93899289-74cc7e80-fcf4-11ea-9ca9-49c811239c3f.jpg)
 
 ## macOS
-El sistema operativo exclusivo de los productos de la marca Apple, los cuales tienen un precio elevado, aunque el S.O. en si cumple con sus funciones con muy buen rendimiento. Es muy seguro, fácil de utilizar y perfecto para trabajar, ya que es el favorito para las empresas, por su fiabilidad. [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) fue su creador, junto a [Steve Wozniak](https://es.wikipedia.org/wiki/Steve_Wozniak) y [Ronald Wayne](https://es.wikipedia.org/wiki/Ronald_Wayne), en el año 1984, juntos, crearon _Apple_Inc._ Este es el claro competidor de [Microsoft Windows](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#microsoft-windows)
+El sistema operativo exclusivo de los productos de la marca Apple, los cuales tienen un precio elevado, aunque el S.O. en si cumple con sus funciones con muy buen rendimiento. Es muy seguro, fácil de utilizar y perfecto para trabajar, ya que es el favorito para las empresas, por su fiabilidad. [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) fue su creador, junto a [Steve Wozniak](https://es.wikipedia.org/wiki/Steve_Wozniak) y [Ronald Wayne](https://es.wikipedia.org/wiki/Ronald_Wayne), en el año 1984, juntos, crearon _Apple_Inc._ Este es el claro competidor de [Microsoft Windows](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#microsoft-windows).
 
 ![logomacOS](https://user-images.githubusercontent.com/71392450/93902880-5e282680-fcf8-11ea-9d8a-3e8037248544.jpeg)
 
 ## iOS
-Desarrollado especialmente para teléfonos móviles inteligentes, este S.O. es uno de los más utilizados. Es bastante fácil de usar y es de los más seguros en cuanto a las amenazas a los que se puede estar expuesto. Ha sido desarrollador también por [Apple Inc.](https://es.wikipedia.org/wiki/Apple). El primer dispositivo con que incorporaba este S.O. fue el iPhone en el 2007. iOS lleva ya compitiendo muchos años contra [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android)
+Desarrollado especialmente para teléfonos móviles inteligentes, este S.O. es uno de los más utilizados. Es bastante fácil de usar y es de los más seguros en cuanto a las amenazas a los que se puede estar expuesto. Ha sido desarrollador también por [Apple Inc.](https://es.wikipedia.org/wiki/Apple). El primer dispositivo con que incorporaba este S.O. fue el iPhone en el 2007. iOS lleva ya compitiendo muchos años contra [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android).
 
 ![LogoiOS](https://user-images.githubusercontent.com/71392450/93906018-f542ad80-fcfb-11ea-9103-62e05b86dd20.jpeg)
 
-> Si quieres descubrir mejor todo sobre los sistemas operativos entra [aquí](https://www.eaeprogramas.es/blog/negocio/tecnologia/cuatro-sistemas-operativos-que-debes-conocer), o en este apartado de la [wiki](https://es.wikipedia.org/wiki/Sistema_operativo)
+> Si quieres descubrir mejor todo sobre los sistemas operativos entra [aquí](https://www.eaeprogramas.es/blog/negocio/tecnologia/cuatro-sistemas-operativos-que-debes-conocer), o en este apartado de la [wiki](https://es.wikipedia.org/wiki/Sistema_operativo).
