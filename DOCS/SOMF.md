@@ -1,5 +1,7 @@
 # Sistemas Operativos
 >>En este documento vamos a hablar de los sistemas operativos mas utilizados en la actualidad, pero, antes que nada, ¿que són los sistemas operativos?
+### Índice
+0. [¿Que són los sistemas operativos?](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#que-s%C3%B3n-los-sistemas-operativos)
 ### ¿Que són los sistemas operativos?  
 Se considera que el S.O. es el software que compone nuestro ordenador, o mas bien, todos los programas que lo hacen   funcionar, los cuales gestionan todos los recursos hardware que tiene el pc, y también provee los servicios de los   programas de aplicación de software, los cuales se ejecutan en privilegiado. 
 # 5 sistemas operativos más utilizados.
