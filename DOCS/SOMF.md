@@ -3,11 +3,11 @@
 ### Índice
 0. [¿Que són los sistemas operativos?](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#que-s%C3%B3n-los-sistemas-operativos)
 1. [Sistemas operativos más usados](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#5-sistemas-operativos-m%C3%A1s-utilizados)
-1.1. [Microsofot Windows](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#microsoft-windows)
-1.2. [Gnu/Linux](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#gnulinux)
-1.3. [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android)
-1.4. [macOS](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#macos)
-1.5. [iOS](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#ios)
+2. [Microsofot Windows](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#microsoft-windows)
+3. [Gnu/Linux](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#gnulinux)
+4. [Android](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#android)
+5. [macOS](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#macos)
+6. [iOS](https://github.com/sergi-hub/SOR/blob/master/DOCS/SOMF.md#ios)
 ### ¿Que són los sistemas operativos?  
 Se considera que el S.O. es el software que compone nuestro ordenador, o mas bien, todos los programas que lo hacen   funcionar, los cuales gestionan todos los recursos hardware que tiene el pc, y también provee los servicios de los   programas de aplicación de software, los cuales se ejecutan en privilegiado. 
 # 5 sistemas operativos más utilizados.
