@@ -16,4 +16,4 @@ Esta version de software tiene el kernel Linux 5.4, Mesa 20, PulseAudio 14.0 (au
 * Tiene una gran protección frente a las amenazas
 * Es totalmente gratuito
 * Tiene una gran comunidad que reporta errores para solucionar.  
-**Debian**,
+**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 11.0, aunque todavía esta en fase de pruebas.
