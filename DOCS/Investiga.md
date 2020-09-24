@@ -17,4 +17,8 @@ Esta version de software tiene el kernel Linux 5.4, Mesa 20, PulseAudio 14.0 (au
 * Es totalmente gratuito
 * Tiene una gran comunidad que reporta errores para solucionar.  
 
-**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 11.0, aunque todavía esta en fase de pruebas.
+**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. Trae de nuevo:
+* El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
+* El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
+* Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
+* En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.
