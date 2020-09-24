@@ -22,7 +22,7 @@ También icorpora:
 * nuevo proceso para la comprobación del medio de instalación 
 * nueva opción avanzada de particionado 
 * sistema de archivos ZFS.  
-Cabe destacar sus mejores en el rendimiento, el soporte a las gráficas NVIDIA, el modo oscuro y una nueva aplicación para gestionar las extensiones. Tiene un soporte hasta el abril de 2025.
+Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, el modo oscuro y una nueva aplicación para gestionar las extensiones. Tiene un soporte hasta el abril de 2025.
 >**Características generales Ubuntu.**  
 * Ubuntu esta basado en la destribución de Debian
 * Esta disponible en 4 arquitecturas distintas
