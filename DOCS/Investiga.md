@@ -18,17 +18,17 @@ Actualizaciones de aplicaciones como:
 * Thunderbird 68
 * LibreOffice 6.4  
 También icorpora:  
-* un nuevo diseño para el arranque del sistema
-* nuevo proceso para la comprobación del medio de instalación 
-* nueva opción avanzada de particionado 
-* sistema de archivos ZFS.  
+* Un nuevo diseño para el arranque del sistema
+* Nuevo proceso para la comprobación del medio de instalación 
+* Nueva opción avanzada de particionado 
+* Sistema de archivos ZFS.  
 Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, el modo oscuro y una nueva aplicación para gestionar las extensiones. Tiene un soporte hasta el abril de 2025.
 >**Características generales Ubuntu.**  
 * Ubuntu esta basado en la destribución de Debian
 * Esta disponible en 4 arquitecturas distintas
 * Tiene una gran protección frente a las amenazas
 * Es totalmente gratuito
-* Tiene una gran comunidad que reporta errores para solucionar.  
+* Tiene una gran comunidad que reporta errores para solucionar  
 
 **Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. Trae de nuevo:
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
