@@ -30,7 +30,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Es totalmente gratuito
 * Tiene una gran comunidad que reporta errores para solucionar  
 
-**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. Se ha añadido:
+**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. >Se ha añadido:
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
 * Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
