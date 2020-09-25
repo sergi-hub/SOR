@@ -35,7 +35,8 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
 * Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
-* En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.  
+* En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.
+* Soporte hasta 2024.
 
 **Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
 1. Edición canela
