@@ -39,7 +39,9 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 **Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
 1. Edición canela
 2. Edición MATE
-3. Edición XfceEn los detalles de la nueva versión añaden:Warpinator, que es un programa para compartir archivos en una red local fácilmente
+3. Edición Xfce  
+En los detalles de la nueva versión añaden:
+* Warpinator, que es un programa para compartir archivos en una red local fácilmente
 * Soporte mejorada para NVIDIA Optimus, con nuevas mejoras en el subprograma de NVIDIA Prime
 * Han armonizado los íconos de la bandeja, para una mejor comprensión y fácil acceso
 * Mejoras en el administrador de archivos Nemo
