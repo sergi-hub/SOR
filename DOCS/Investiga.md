@@ -1,5 +1,5 @@
 # Trabajo de Investigación.
-## ¿Que es GPL?
+## ¿Qué es GPL?
 GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de él para su venta.
 ## Software libre y comercial.
 El software libre, es un tipo de software en el que los usuarios tienen libertad sobre él, cuando se obtiene, se puede modificar, copiar, usar, estudiar como esta hecho y se puede redistribuir libremente para ayudar a los demás con mejoras, además suele ser gratuito. Ejemplos: Linux Mint, Ubuntu, Debian.   
@@ -49,4 +49,5 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Mejoras en el administrador de archivos Nemo
 * Nueva interfaz en la aplicación para instalar archivos .deb
 * Versión con linux-firmware 1.187, kernel de Linux 5.4 y base de paquetes Ubuntu 20.04
-* Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.
+* Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.  
+## ¿Qué es Unix y en que se diferencia de Linux?
