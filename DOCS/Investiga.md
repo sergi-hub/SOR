@@ -30,7 +30,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Es totalmente gratuito
 * Tiene una gran comunidad que reporta errores para solucionar  
 
-**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. Trae de nuevo:
+**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. Se ha añadido:
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
 * Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
@@ -40,7 +40,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 1. Edición canela
 2. Edición MATE
 3. Edición Xfce  
-En los detalles de la nueva versión añaden:
+>En los detalles de la nueva versión añaden:
 * Warpinator, que es un programa para compartir archivos en una red local fácilmente
 * Soporte mejorada para NVIDIA Optimus, con nuevas mejoras en el subprograma de NVIDIA Prime
 * Han armonizado los íconos de la bandeja, para una mejor comprensión y fácil acceso
@@ -48,4 +48,3 @@ En los detalles de la nueva versión añaden:
 * Nueva interfaz en la aplicación para instalar archivos .deb
 * Versión con linux-firmware 1.187, kernel de Linux 5.4 y base de paquetes Ubuntu 20.04
 * Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.
-
