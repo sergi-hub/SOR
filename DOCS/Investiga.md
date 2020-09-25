@@ -1,6 +1,6 @@
 # Trabajo de Investigación.
 ## ¿Que es GPL?
-GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de el para su venta.
+GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de él para su venta.
 ## Software libre y comercial.
 El software libre, es un tipo de software en el que los usuarios tienen libertad sobre él, cuando se obtiene, se puede modificar, copiar, usar, estudiar como esta hecho y se puede redistribuir libremente para ayudar a los demás con mejoras, además suele ser gratuito. Ejemplos: Linux, Ubuntu, Debian.   
 En cambio el software comercial, suele estar hecho por compañias grandes, el cual tiene un coste económico, para obtenerlo y recibir un soporte sobre este. Ejemplos: Windows 7, Windows 10 pro.
