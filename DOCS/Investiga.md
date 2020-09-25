@@ -58,8 +58,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 ## ¿Qué es Unix y en que se diferencia de Linux?
 Unix es un sistema operativo inventado por Ken Thompson y Dennis Ritchie en 1969, que es portable, multitarea y multiusuario. Es considerado el S.O. del cual derivan todos los demás.
 * Linux es totalmente gratuito y libre, en cambio, unix generalmente no lo es
-* Linux es un nucleo o kernel, en si, no es un S.O., pero Unix si lo es
+* Linux es un nucleo o kernel, en si, no es un S.O., pero Unix si
 * Linux tiene la capacidad de soportar más tipos de sistemas de archivos que Unix
 * Linux se creo para ejecutarse en computadoras, pero Unix era en gran parte para estaciones de trabajo y servidores.  
 ![Unix)](https://user-images.githubusercontent.com/71392450/94285477-fc63f880-ff53-11ea-85e4-927376968a67.jpg)
-
