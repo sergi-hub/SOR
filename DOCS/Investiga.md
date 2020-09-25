@@ -34,4 +34,18 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
 * Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
-* En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.
+* En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.  
+
+**Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
+1. Edición canela
+2. Edición MATE
+3. Edición Xfce  
+En los detalles de la nueva versión añaden:  
+* Warpinator, que es un programa para compartir archivos en una red local fácilmente
+* Soporte mejorada para NVIDIA Optimus, con nuevas mejoras en el subprograma de NVIDIA Prime
+* Han armonizado los íconos de la bandeja, para una mejor comprensión y fácil acceso
+* Mejoras en el administrador de archivos Nemo
+* Nueva interfaz en la aplicación para instalar archivos .deb
+* Versión con linux-firmware 1.187, kernel de Linux 5.4 y base de paquetes Ubuntu 20.04
+* Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.
+
