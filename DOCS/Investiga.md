@@ -40,6 +40,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.
 * Soporte hasta 2024.  
 ![Debian](https://user-images.githubusercontent.com/71392450/94284025-1c92b800-ff52-11ea-9fed-00325ef16a5f.png)  
+
 **Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
 1. Edición canela
 2. Edición MATE
@@ -53,9 +54,12 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Versión con linux-firmware 1.187, kernel de Linux 5.4 y base de paquetes Ubuntu 20.04
 * Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.  
 ![Mint](https://user-images.githubusercontent.com/71392450/94285177-a68f5080-ff53-11ea-8ae3-ef725621b08d.jpg)
+
 ## ¿Qué es Unix y en que se diferencia de Linux?
 Unix es un sistema operativo inventado por Ken Thompson y Dennis Ritchie en 1969, que es portable, multitarea y multiusuario. Es considerado el S.O. del cual derivan todos los demás.
 * Linux es totalmente gratuito y libre, en cambio, unix generalmente no lo es
 * Linux es un nucleo o kernel, en si, no es un S.O., pero Unix si lo es
 * Linux tiene la capacidad de soportar más tipos de sistemas de archivos que Unix
-* Linux se creo para ejecutarse en computadoras, pero Unix era en gran parte para estaciones de trabajo y servidores.
+* Linux se creo para ejecutarse en computadoras, pero Unix era en gran parte para estaciones de trabajo y servidores.  
+![Unix)](https://user-images.githubusercontent.com/71392450/94285477-fc63f880-ff53-11ea-85e4-927376968a67.jpg)
+
