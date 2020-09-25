@@ -52,6 +52,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Nueva interfaz en la aplicación para instalar archivos .deb
 * Versión con linux-firmware 1.187, kernel de Linux 5.4 y base de paquetes Ubuntu 20.04
 * Recibirá actualizaciones de seguridad hasta 2025, hasta 2022 todas las versiones utilizarán la misma base de paquetes y el equipo de desarrollo estará solo enfocado en esta base.  
+![Mint](https://user-images.githubusercontent.com/71392450/94285177-a68f5080-ff53-11ea-8ae3-ef725621b08d.jpg)
 ## ¿Qué es Unix y en que se diferencia de Linux?
 Unix es un sistema operativo inventado por Ken Thompson y Dennis Ritchie en 1969, que es portable, multitarea y multiusuario. Es considerado el S.O. del cual derivan todos los demás.
 * Linux es totalmente gratuito y libre, en cambio, unix generalmente no lo es
