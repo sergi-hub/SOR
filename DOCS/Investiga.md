@@ -9,15 +9,15 @@ Una distribución de software, es un software o cojunto de este, el cual ya esta
 Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian, Linux Mint.
 ## Ubuntu, Debian y Linux Mint.
 **Ubuntu**, tiene como fecha de lanzamiento el 20 de octubre de 2004, su ultima versión es la 20.04 LTS.
-Esta version de software incluye: 
+>Esta version de software incluye: 
 * kernel Linux 5.4
 * Mesa 20
 * PulseAudio 14.0 (aunque aun no esta disponible)   
-Actualizaciones de aplicaciones como:  
+>>Actualizaciones de aplicaciones como:  
 * Firefox 75
 * Thunderbird 68
 * LibreOffice 6.4  
-También icorpora:  
+>>También icorpora:  
 * Un nuevo diseño para el arranque del sistema
 * Nuevo proceso para la comprobación del medio de instalación 
 * Nueva opción avanzada de particionado 
