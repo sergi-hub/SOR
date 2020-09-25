@@ -1,6 +1,7 @@
 # Trabajo de Investigación.
 ## ¿Qué es GPL?
-GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de él para su venta.
+GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de él para su venta.  
+![GPL](https://user-images.githubusercontent.com/71392450/94283509-629b4c00-ff51-11ea-9fa0-9825a42f451b.png)  
 ## Software libre y comercial.
 El software libre, es un tipo de software en el que los usuarios tienen libertad sobre él, cuando se obtiene, se puede modificar, copiar, usar, estudiar como esta hecho y se puede redistribuir libremente para ayudar a los demás con mejoras, además suele ser gratuito. Ejemplos: Linux Mint, Ubuntu, Debian.   
 En cambio el software comercial, suele estar hecho por compañias grandes, el cual tiene un coste económico, para obtenerlo y recibir un soporte sobre este. Ejemplos: Windows 7, Windows 10 pro.
@@ -22,7 +23,8 @@ Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian, Linux 
 * Nuevo proceso para la comprobación del medio de instalación 
 * Nueva opción avanzada de particionado 
 * Sistema de archivos ZFS.  
-Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, el modo oscuro y una nueva aplicación para gestionar las extensiones. Tiene un soporte hasta el abril de 2025.
+Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, el modo oscuro y una nueva aplicación para gestionar las extensiones. Tiene un soporte hasta el abril de 2025.  
+![Ubuntu](https://user-images.githubusercontent.com/71392450/94283773-bad24e00-ff51-11ea-942b-66aa031acc4b.png)  
 >**Características generales Ubuntu.**  
 * Ubuntu esta basado en la destribución de Debian
 * Esta disponible en 4 arquitecturas distintas
