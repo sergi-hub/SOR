@@ -31,14 +31,15 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Es totalmente gratuito
 * Tiene una gran comunidad que reporta errores para solucionar  
 ![Ubuntu](https://user-images.githubusercontent.com/71392450/94283773-bad24e00-ff51-11ea-942b-66aa031acc4b.png)  
-**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas.   
+
+**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. 
 >Se ha añadido:
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
 * Incorpora paquetes cups y cups-filters, para que los usuarios puedan imprimir sin necesidad de instalar controladores,
 * En esta versión GNOME usa predeterminadamente el servidor gráfico Wayland, incluye  varios entornos y aplicaciones de escritorio como: Cinnamon 3.8, GNOME 3.30, MATE 1.20, entre otros.
-* Soporte hasta 2024.
-
+* Soporte hasta 2024.  
+![Debian](https://user-images.githubusercontent.com/71392450/94284025-1c92b800-ff52-11ea-9fed-00325ef16a5f.png)  
 **Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
 1. Edición canela
 2. Edición MATE
