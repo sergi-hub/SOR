@@ -1,8 +1,8 @@
 # Trabajo de Investigación.
 ## Índice  
-1. [Qué es gpl?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-gpl)
+1. [¿Qué es gpl?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-gpl)
 2. [Software libre y comercial](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#software-libre-y-comercial)
-3. [¿Qué es una distribución?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#que-es-una-distribuci%C3%B3n)
+3. [¿Qué es una distribución?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-una-distribuci%C3%B3n)
 4. [Ubuntu, Debian y Linux Mint](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#ubuntu-debian-y-linux-mint)
 5. [¿Qué es Unix y en que se difrenecia de Linux?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-unix-y-en-que-se-diferencia-de-linux)  
 ## ¿Qué es GPL?
