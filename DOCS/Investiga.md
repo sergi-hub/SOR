@@ -1,11 +1,17 @@
 # Trabajo de Investigación.
+## Índice  
+1. [Qué es gpl?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-gpl)
+2. [Software libre y comercial](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#software-libre-y-comercial)
+3. [¿Qué es una distribución?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#que-es-una-distribuci%C3%B3n)
+4. [Ubuntu, Debian y Linux Mint](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#ubuntu-debian-y-linux-mint)
+5. [¿Qué es Unix y en que se difrenecia de Linux?](https://github.com/sergi-hub/SOR/blob/master/DOCS/Investiga.md#qu%C3%A9-es-unix-y-en-que-se-diferencia-de-linux)  
 ## ¿Qué es GPL?
 GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que se utiliza para el software libtre y código abierto, la cual permite con total libertad usar, modificar, estudiar, e incluso compartir el software. Tiene como objetivo  demostrar que el software que esta cubierto por dicha licencia es libre y además se encarga de protegerlo ante gente que quiera apropiarse de él para su venta.  
 ![GPL](https://user-images.githubusercontent.com/71392450/94283509-629b4c00-ff51-11ea-9fa0-9825a42f451b.png)  
 ## Software libre y comercial.
 El software libre, es un tipo de software en el que los usuarios tienen libertad sobre él, cuando se obtiene, se puede modificar, copiar, usar, estudiar como esta hecho y se puede redistribuir libremente para ayudar a los demás con mejoras, además suele ser gratuito. Ejemplos: Linux Mint, Ubuntu, Debian.   
 En cambio el software comercial, suele estar hecho por compañias grandes, el cual tiene un coste económico, para obtenerlo y recibir un soporte sobre este. Ejemplos: Windows 7, Windows 10 pro.
-## ¿Que es una distribución?
+## ¿Qué es una distribución?
 Una distribución de software, es un software o cojunto de este, el cual ya esta compilado y ajustado para su uso.
 Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian, Linux Mint.
 ## Ubuntu, Debian y Linux Mint.
