@@ -12,8 +12,8 @@ GPL o Licencia Pública General de GNU, es la licencia de derechos de autor, que
 El software libre, es un tipo de software en el que los usuarios tienen libertad sobre él, cuando se obtiene, se puede modificar, copiar, usar, estudiar como esta hecho y se puede redistribuir libremente para ayudar a los demás con mejoras, además suele ser gratuito. Ejemplos: Linux Mint, Ubuntu, Debian.   
 En cambio el software comercial, suele estar hecho por compañias grandes, el cual tiene un coste económico, para obtenerlo y recibir un soporte sobre este. Ejemplos: Windows 7, Windows 10 pro.
 ## ¿Qué es una distribución?
-Una distribución de software, es un software o cojunto de este, el cual ya esta compilado y ajustado para su uso.
-Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian, Linux Mint.
+Una distribución de software, es un software o cojunto de este, el cual ya esta compilado y ajustado para su uso. Suelen tomar una licencia para su uso y venta como la _GPL_ u _Open Source_. Puede ser distribución binaria, la cual se descarga a través de Internet con formato .exe  . A parte, pueden ser distribuciones oficiales desarrolladas y distribuidas por sus creadores, o pueden ser de terceros.
+Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian y Linux Mint.  
 ## Ubuntu, Debian y Linux Mint.
 **Ubuntu**, tiene como fecha de lanzamiento el 20 de octubre de 2004, su ultima versión es la 20.04 LTS.
 >Esta version de software incluye: 
