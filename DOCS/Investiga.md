@@ -15,7 +15,7 @@ En cambio el software comercial, suele estar hecho por compañias grandes, el cu
 Una distribución de software, es un software o cojunto de este, el cual ya esta compilado y ajustado para su uso. Suelen tomar una licencia para su uso y venta como la _GPL_ u _Open Source_. Puede ser distribución binaria, la cual se descarga a través de Internet con formato .exe  . A parte, pueden ser distribuciones oficiales desarrolladas y distribuidas por sus creadores, o pueden ser de terceros.
 Algunas de las distribuciones mas conocidas de linux son: Ubuntu, Debian y Linux Mint.  
 ## Ubuntu, Debian y Linux Mint.
-**Ubuntu**, tiene como fecha de lanzamiento el 20 de octubre de 2004, su ultima versión es la 20.04 LTS.
+**[Ubuntu](https://ubuntu.com/)**, tiene como fecha de lanzamiento el 20 de octubre de 2004, su ultima versión es la 20.04 LTS.
 >Esta version de software incluye: 
 * kernel Linux 5.4
 * Mesa 20
@@ -38,7 +38,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Tiene una gran comunidad que reporta errores para solucionar  
 ![Ubuntu](https://user-images.githubusercontent.com/71392450/94283773-bad24e00-ff51-11ea-942b-66aa031acc4b.png)  
 
-**Debian**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. 
+**[Debian](https://www.debian.org/index.es.html)**, se lanzó el 16 de agosto de 1993, y actualmente va por la versión 10.0 ya que la 11.0 todavía esta en fase de pruebas. 
 >Se ha añadido:
 * El sistema de control de acceso mandatorio AppArmor, el cual restringe lo que pueden hacer los programas,
 * El soporte UEFI se ha mejorado en esta versión, el cual incluye el modo "arranque seguro",
@@ -47,7 +47,7 @@ Cabe destacar sus mejoras en el rendimiento, el soporte a las gráficas NVIDIA, 
 * Soporte hasta 2024.  
 ![Debian](https://user-images.githubusercontent.com/71392450/94284025-1c92b800-ff52-11ea-9fed-00325ef16a5f.png)  
 
-**Linux Mint**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
+**[Linux Mint](https://linuxmint.com/)**, fue lanzado el 27 de agosto de 2006, su última version es la 20 (Ulyana), y fue sacada en el 27 de junio de 2020. Tiene 3 ediciones distintas: 
 1. Edición canela
 2. Edición MATE
 3. Edición Xfce  
